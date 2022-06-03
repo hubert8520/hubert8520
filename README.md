@@ -3,7 +3,7 @@
 - 👀 I’m interested in fitness, healty nutrition and of course new technologies.
 - 🌱 I’m currently learning python and bunch of things connected with CCNA exam.
 - 💞️ I’m looking to collaborate on project where I would check and improve my skills as junior python dev.
-- 📫 How to reach me?
+
 
 <!---
 hubert8520/hubert8520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
